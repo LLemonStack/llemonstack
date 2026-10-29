@@ -50,6 +50,10 @@ llmn config
 llmn start
 ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/LLemonStack/)
+
 ## Walkthrough Video
 
 [![LLemonStack Walkthrough Video](https://img.youtube.com/vi/xRRRSbYE9TY/0.jpg)](https://www.youtube.com/watch?v=xRRRSbYE9TY "LLemonStack Walkthrough Video")
